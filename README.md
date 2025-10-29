@@ -10,6 +10,13 @@ Two visuals + a clean dataset to examine (1) scoring trends and (2) dominance si
 - `report/Technical_Report_2025-09-17.md` (or `.docx`)
 - `portfolio/Portfolio_Post_Draft_2025-09-17.md`
 
+  
+## NCAA Football Dashboard (2002–2024)
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/matthewdallura/viz/NCAAFootballDashboard)
+**Report:** [Project2_Technical_Report.md](./Project2_Technical_Report.md)
+**Data:** [games_for_tableau_clean.csv](./data/processed/games_for_tableau_clean.csv)
+
+
 ## Reproduce
 Open `data/processed/games_for_tableau_clean.csv` in Tableau.
 Create:
