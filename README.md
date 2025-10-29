@@ -12,7 +12,8 @@ Two visuals + a clean dataset to examine (1) scoring trends and (2) dominance si
 
   
 ## NCAA Football Dashboard (2002–2024)
-**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/matthewdallura/viz/NCAAFootballDashboard)
+**Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/matthew.d.allura/viz/College_dashboard_final/CollegeFootballPerformanceDashboard)
+
 **Report:** [Project2_Technical_Report.md](./Project2_Technical_Report.md)
 **Data:** [games_for_tableau_clean.csv](./data/processed/games_for_tableau_clean.csv)
 
