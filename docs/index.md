@@ -23,14 +23,15 @@ A minimum-games threshold (150 +) keeps rankings fair for active teams.
 Below is the full Tableau dashboard version — explore filters and KPIs interactively!
 
 <div style="text-align:center;">
-  <iframe
-    src="https://public.tableau.com/views/NCAAFootballDashboard?:showVizHome=no&:embed=true"
-    width="100%"
-    height="900px"
-    frameborder="0"
+  <iframe 
+    src="https://public.tableau.com/views/College_dashboard_final/CollegeFootballPerformanceDashboard?:showVizHome=no&:embed=true" 
+    width="100%" 
+    height="900px" 
+    frameborder="0" 
     allowfullscreen="true">
   </iframe>
 </div>
+
 
 ---
 
